@@ -46,6 +46,7 @@ Das Auffrischen ist im Prinzip dasselbe wie beim [Sauerteig im Roggenbrot](#schr
 - **Wasser immer abwiegen!**
 - **Anfangs gerne 10 % des Wassers zurückhalten.** Die richtige Wassermenge hängt immer vom Mehl ab. Mit etwas weniger Wasser ist der Teig leichter zu handhaben, das ist anfängerfreundlich. Wenn der Teig zu fest ist, kannst du das restliche Wasser nach und nach dazugeben.
 - **Das Sauerteig-Glas nie zuschrauben**, Deckel nur auflegen. Der Sauerteig produziert Gase.
+- **Teig immer abdecken.** Sonst trocknet die Oberfläche an und bildet eine Haut, die sich später nicht mehr gut verbindet und im Brot harte Stellen hinterlässt. Geeignet sind ein Teller oder Deckel auf der Schüssel, eine Duschhaube, ein feuchtes Küchentuch oder Frischhaltefolie (locker, nicht fest aufdrücken). Bei allem, was gärt, gilt: Der Abschluss muss locker sein, nie luftdicht.
 - **Hände immer anfeuchten oder bemehlen**, wenn der Teig klebrig ist.
 - **Roggen klebt immer.** Er bildet keine Struktur wie Weizen und muss deshalb nur vermischt werden, nicht geknetet.
 - **Temperatur:** Alle Zeitangaben gelten bei ca. **22 °C** Raumtemperatur. Ist es wärmer, geht es schneller, ist es kälter, dauert es länger.
@@ -86,7 +87,7 @@ Du brauchst eine **Kastenform (ca. 25 cm)**.
 
 **Zubereitung**
 
-Alles vermischen und **10-14 Stunden** stehen lassen. Der Sauerteig muss sich **verdoppeln**.
+Alles vermischen und **abgedeckt** (Deckel nur auflegen) **10-14 Stunden** stehen lassen. Der Sauerteig muss sich **verdoppeln**.
 
 ![Sauerteig 1](Bilder/Sauerteig1.jpg)
 *Sauerteig 1*
@@ -119,8 +120,8 @@ Alles vermischen und **10-14 Stunden** stehen lassen. Der Sauerteig muss sich **
 
 1. Alles vermischen, entweder mit der Küchenmaschine oder mit einem Löffel in einer Schüssel. Roggen muss nicht geknetet werden.
 2. Der Teig ist klebrig, das ist normal. Hände anfeuchten oder bemehlen.
-3. **90 Minuten** gehen lassen.
-4. In die Kastenform füllen (ausfetten und leicht bemehlen ODER mit Backpapier auslegen) und nochmal **1 Stunde** gehen lassen.
+3. **90 Minuten abgedeckt** gehen lassen.
+4. In die Kastenform füllen (ausfetten und leicht bemehlen ODER mit Backpapier auslegen), mit einem Tuch oder einer Haube abdecken und nochmal **1 Stunde** gehen lassen.
 
 ![Wasser und Sauerteig verrühren](Bilder/1-WasserUndSauerteig.jpg)
 *Wasser und Sauerteig gut verrühren.*
@@ -141,14 +142,21 @@ Alles vermischen und **10-14 Stunden** stehen lassen. Der Sauerteig muss sich **
 
 Ober-/Unterhitze, **Backzeit gesamt: 50 Minuten**.
 
-1. Ofen auf **230 °C** vorheizen. Eine **feuerfeste Schale mit heißem Wasser** auf den Ofenboden stellen, das sorgt für Dampf.
-2. Kasten in den Ofen schieben und **20 Minuten bei 230 °C mit Dampf** backen.
-3. **Dampf ablassen** (Schale herausnehmen, Ofentür kurz öffnen) und auf **210 °C** reduzieren.
+1. Ofen auf **230 °C** vorheizen. Eine **leere, feuerfeste Schale** (am besten aus Metall, Glas kann springen) auf den Ofenboden stellen und mit vorheizen.
+2. Kasten in den Ofen schieben und **sofort heißes Wasser in die Schale gießen** (ca. eine halbe Tasse, Vorsicht, es dampft stark). Tür schnell schließen und **20 Minuten bei 230 °C mit Dampf** backen.
+3. **Dampf ablassen** (Ofentür kurz öffnen) und auf **210 °C** reduzieren. Die Schale kann im Ofen bleiben oder mit Ofenhandschuhen vorsichtig herausgenommen werden.
 4. Weitere **30 Minuten** backen.
 
-![Roggenbrot frisch aus dem Ofen](bilder/roggen-backen-1.jpg)
 
-![Roggenbrot angeschnitten](bilder/roggen-backen-2.jpg)
+
+![Roggenbrot während des Backens im Ofen](Bilder/Backen_01.jpg)
+*Das Roggenbrot backt im Ofen.*
+
+![Roggenbrot fertig gebacken in der Kastenform](Bilder/Backen_02.jpg)
+*Das fertig gebackene Roggenbrot in der Kastenform.*
+
+![Roggenbrot aufgeschnitten](Bilder/Backen_03.jpg)
+*Das Roggenbrot aufgeschnitten und servierfertig.*
 
 ## Wichtig: Abkühlen lassen!
 
@@ -172,7 +180,7 @@ Roggenbrot muss **mindestens 12 Stunden** auskühlen, bevor du es anschneidest.
 
 **Zubereitung**
 
-Alles vermischen und über Nacht (ca. **12 Stunden**) stehen lassen.
+Alles vermischen und **abgedeckt** (Deckel nur auflegen) über Nacht (ca. **12 Stunden**) stehen lassen.
 
 ## Schritt 2: Der Hauptteig
 
@@ -186,16 +194,16 @@ Alles vermischen und über Nacht (ca. **12 Stunden**) stehen lassen.
 **Zubereitung**
 
 1. Alles mischen und **10-15 Minuten kneten**.
-2. **2 Stunden ruhen** lassen. In dieser Zeit alle **30 Minuten dehnen und falten**: Den Teig an einer Seite hochziehen, dehnen und über sich falten, dann die Schüssel eine Vierteldrehung weiterdrehen und wiederholen (rundherum).
-3. Danach den Teig weiter gehen lassen (Stockgare): bei ca. 22 °C **mindestens 4 Stunden** (TODO: genaue Zeit nach Backversuch eintragen), bis der Teig ca. **60 % an Volumen** gewonnen hat. Auch hier gilt: Die Volumenzunahme kommt erst gegen Ende.
+2. **2 Stunden abgedeckt ruhen** lassen. In dieser Zeit alle **30 Minuten dehnen und falten**: Den Teig an einer Seite hochziehen, dehnen und über sich falten, dann die Schüssel eine Vierteldrehung weiterdrehen und wiederholen (rundherum). Dazu den Teig nur kurz aufdecken und danach wieder abdecken.
+3. Danach den Teig **abgedeckt** weiter gehen lassen (Stockgare): bei ca. 22 °C **mindestens 4 Stunden** (TODO: genaue Zeit nach Backversuch eintragen), bis der Teig ca. **60 % an Volumen** gewonnen hat. Auch hier gilt: Die Volumenzunahme kommt erst gegen Ende.
 
-> **Profi-Tipp (Aliquot-Methode):** Gib ein Stück Teig (ca. 20 g) in ein kleines Glas und markiere die Höhe. Wenn der Teig im Glas um 60 % gewachsen ist, ist auch der große Teig so weit. Das ist verlässlicher als jede Uhrzeit.
+> **Profi-Tipp (Aliquot-Methode):** Gib ein Stück Teig (ca. 20 g) in ein kleines Glas (Deckel nur locker auflegen) und markiere die Höhe. Wenn der Teig im Glas um 60 % gewachsen ist, ist auch der große Teig so weit. Das ist verlässlicher als jede Uhrzeit.
 
 ## Schritt 3: Formen und kalt gehen lassen
 
 1. Teig vorsichtig auf die Arbeitsfläche geben und zu einer Kugel oder einem Oval formen.
 2. In ein **gut bemehltes Gärkörbchen** legen, mit dem Schluss (der Nahtstelle) nach oben.
-3. **Über Nacht in den Kühlschrank** stellen.
+3. Abdecken (Tüte, Duschhaube oder Tuch), damit der Teig im Kühlschrank nicht austrocknet, und **über Nacht in den Kühlschrank** stellen.
 
 **Kein Gärkörbchen?** Das geht auch mit:
 
@@ -209,10 +217,10 @@ Der Teig kann direkt aus dem Kühlschrank gebacken werden.
 
 **Ohne Topf (Standard):**
 
-1. Backblech (oder Backstein) im Ofen mit vorheizen. Ofen auf **230 °C** Ober-/Unterhitze. Eine **feuerfeste Schale mit heißem Wasser** auf den Ofenboden stellen.
+1. Backblech (oder Backstein) und eine **leere, feuerfeste Schale** (am besten aus Metall) auf dem Ofenboden im Ofen mit vorheizen. Ofen auf **230 °C** Ober-/Unterhitze.
 2. Teig aus dem Gärkörbchen auf Backpapier stürzen und mit einem scharfen Messer oder einer Rasierklinge ca. 0,5 cm tief einschneiden.
-3. Mit dem Papier auf das heiße Blech schieben und **20 Minuten bei 230 °C mit Dampf** backen.
-4. Dampf ablassen (Schale herausnehmen, Ofentür kurz öffnen) und auf **210 °C** reduzieren. Weitere **25-30 Minuten** backen, bis die Kruste schön braun ist.
+3. Mit dem Papier auf das heiße Blech schieben, **sofort heißes Wasser in die Schale gießen** (Vorsicht, es dampft stark), Tür schließen und **20 Minuten bei 230 °C mit Dampf** backen.
+4. Dampf ablassen (Ofentür kurz öffnen) und auf **210 °C** reduzieren. Die Schale kann im Ofen bleiben. Weitere **25-30 Minuten** backen, bis die Kruste schön braun ist.
 5. Auf einem Gitter mindestens **1 Stunde** auskühlen lassen.
 
 **Mit Topf (optional, bessere Kruste):** Wer einen Gusseisentopf oder einen anderen ofenfesten Topf mit Deckel hat, kann das Brot darin backen:
