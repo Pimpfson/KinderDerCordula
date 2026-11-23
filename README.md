@@ -37,6 +37,8 @@ Der Sauerteig, den du geschenkt bekommen hast, ist Überschuss aus meinem Glas. 
 
 **Fürs Backen** nimmst du das ASG immer erst nach der Reife (ca. 6 h, verdoppelt) oder frisch aus dem Kühlschrank.
 
+Das Auffrischen ist im Prinzip dasselbe wie beim [Sauerteig im Roggenbrot](#schritt-1-der-sauerteig).
+
 ---
 
 ## Die Basics
@@ -86,11 +88,23 @@ Du brauchst eine **Kastenform (ca. 25 cm)**.
 
 Alles vermischen und **10-14 Stunden** stehen lassen. Der Sauerteig muss sich **verdoppeln**.
 
-<!-- Bilder: Dateien in den Ordner "bilder" hochladen. Dateinamen unten anpassen oder Bilder entsprechend benennen. -->
+![Sauerteig 1](Bilder/Sauerteig1.jpg)
+*Sauerteig 1*
 
-![Roggen-Sauerteig direkt nach dem Ansetzen](bilder/roggen-sauerteig-1.jpg)
+![Sauerteig 2](Bilder/Sauerteig2.jpg)
+*Sauerteig 2*
 
-![Roggen-Sauerteig nach der Reife](bilder/roggen-sauerteig-2.jpg)
+![Sauerteig 3](Bilder/Sauerteig3.jpg)
+*Sauerteig 3*
+
+![Sauerteig 4 nach 3 Stunden](Bilder/Sauerteig4.jpg)
+*Sauerteig 4 – nach 3 Stunden*
+
+![Sauerteig 5 nach 12 Stunden](Bilder/Sauerteig5.jpg)
+*Sauerteig 5 – nach 12 Stunden*
+
+![Sauerteig 6 nach 12 Stunden](Bilder/Sauerteig6.jpg)
+*Sauerteig 6 – nach 12 Stunden*
 
 ## Schritt 2: Der Hauptteig
 
