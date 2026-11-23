@@ -120,11 +120,22 @@ Alles vermischen und **10-14 Stunden** stehen lassen. Der Sauerteig muss sich **
 1. Alles vermischen, entweder mit der Küchenmaschine oder mit einem Löffel in einer Schüssel. Roggen muss nicht geknetet werden.
 2. Der Teig ist klebrig, das ist normal. Hände anfeuchten oder bemehlen.
 3. **90 Minuten** gehen lassen.
-4. In die Kastenform füllen (ausfetten oder mit Backpapier auslegen) und nochmal **1 Stunde** gehen lassen.
+4. In die Kastenform füllen (ausfetten und leicht bemehlen ODER mit Backpapier auslegen) und nochmal **1 Stunde** gehen lassen.
 
-![Roggen-Hauptteig frisch gemischt](bilder/roggen-hauptteig-1.jpg)
+![Wasser und Sauerteig verrühren](Bilder/1-WasserUndSauerteig.jpg)
+*Wasser und Sauerteig gut verrühren.*
 
-![Roggen-Hauptteig in der Kastenform](bilder/roggen-hauptteig-2.jpg)
+![Mehl und Salz dazugeben](Bilder/2-MehlundSalzDazu.jpg)
+*Mehl und Salz zum Wasser-Sauerteig-Gemisch geben.*
+
+![Hauptteig vermischen](Bilder/3-Vermischen.jpg)
+*Alles mit einem Löffel zu einem gleichmäßigen, klebrigen Teig vermischen.*
+
+![Glatter Hauptteig nach der Ruhezeit](Bilder/4-HauptteigGlattUndRuhe.jpg)
+*Der Hauptteig ist glatt und ruht in der Schüssel.*
+
+![Kastenform nach der Stockgare](Bilder/5-KastenNachStockgare.jpg)
+*Der Teig liegt nach dem Füllen und der anschließenden Ruhezeit in der Kastenform.*
 
 ## Schritt 3: Backen
 
