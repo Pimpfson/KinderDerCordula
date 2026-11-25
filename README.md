@@ -182,6 +182,9 @@ Roggenbrot muss **mindestens 12 Stunden** auskühlen, bevor du es anschneidest.
 
 Alles vermischen und **abgedeckt** (Deckel nur auflegen) über Nacht (ca. **12 Stunden**) stehen lassen.
 
+![Weizen-Vorteig](Bilder/Weizen/01_Sauerteig.jpg)
+*Der Vorteig nach der Nacht. Im Bild hab ich schon Wasser draufgeschüttet, einfach ignorieren :)*
+
 ## Schritt 2: Der Hauptteig
 
 **Zutaten**
@@ -193,11 +196,40 @@ Alles vermischen und **abgedeckt** (Deckel nur auflegen) über Nacht (ca. **12 S
 
 **Zubereitung**
 
-1. Alles mischen und **10-15 Minuten kneten**.
+1. Alles mischen und **10-15 Minuten kneten**. 
+
+![Hauptteig nach dem Kneten](Bilder/Weizen/02_Hauptteig_Verknetet.jpg)
+*Der Hauptteig ist fertig verknetet.*
+
+![Hauptteig in der Schüssel](Bilder/Weizen/03_Hauptteig_nach_Kneten.jpg)
+*Der Hauptteig ruht nach dem Kneten in der Schüssel.*
+
 2. **2 Stunden abgedeckt ruhen** lassen. In dieser Zeit alle **30 Minuten dehnen und falten**: Den Teig an einer Seite hochziehen, dehnen und über sich falten, dann die Schüssel eine Vierteldrehung weiterdrehen und wiederholen (rundherum). Dazu den Teig nur kurz aufdecken und danach wieder abdecken.
+
+![Dehnen und Falten 1](Bilder/Weizen/04_DehnenFalten1.jpg)
+*Dehnen und Falten, erste Runde nach 30 Minuten.*
+
+![Dehnen und Falten 2](Bilder/Weizen/05_DehnenFalten2.jpg)
+*Dehnen und Falten, spätere Runde.*
+
 3. Danach den Teig **abgedeckt** weiter gehen lassen (Stockgare): bei ca. 22 °C **ca. 3 Stunden**, bis der Teig ca. **60 % an Volumen** gewonnen hat. Insgesamt sind das **ca. 5 Stunden ab dem Ende des Knetens** (inklusive der 2 Stunden Ruhe mit Dehnen und Falten). Auch hier gilt: Die Volumenzunahme kommt erst gegen Ende.
 
 > **Profi-Tipp (Aliquot-Methode):** Gib ein Stück Teig (ca. 20 g) in ein kleines Glas (Deckel nur locker auflegen) und markiere die Höhe. Wenn der Teig im Glas um 60 % gewachsen ist, ist auch der große Teig so weit. Das ist verlässlicher als jede Uhrzeit.
+
+![Aliquot-Glas](Bilder/Weizen/06_AliquotGlas.jpg)
+*Das Aliquot-Glas mit markierter Starthöhe.*
+
+![Stockgare Beginn](Bilder/Weizen/07_Stockgare.jpg)
+*Der Teig zu Beginn der Stockgare.*
+
+![Stockgare nach 4 Stunden](Bilder/Weizen/08_Stockgare4h.jpg)
+*Die Stockgare nach 4 Stunden.*
+
+![Aliquot-Glas nach 6 Stunden](Bilder/Weizen/09_Stockgare6h_Aliquot.jpg)
+*Das Aliquot-Glas nach 6 Stunden.*
+
+![Teig nach 6 Stunden](Bilder/Weizen/09_Stockgare6h_Schüssel.jpg)
+*Der Teig in der Schüssel nach 6 Stunden.*
 
 > **Mein Backversuch:** Ich habe die Stockgare insgesamt **6 Stunden** ab dem Ende des Knetens gehen lassen (es ging bei mir zeitlich nicht anders). Das war zu viel, **5 Stunden hätten gereicht**. Bei Weizen gilt „im Zweifel länger“ also nur eingeschränkt. Schau lieber auf das Volumen als auf die Uhr.
 
@@ -205,6 +237,10 @@ Alles vermischen und **abgedeckt** (Deckel nur auflegen) über Nacht (ca. **12 S
 
 1. Teig vorsichtig auf die Arbeitsfläche geben und zu einer Kugel oder einem Oval formen. Bei der Aliquot Methode kann man den entfernten Teig hier auf die Unterseite des Teiges machen.
 2. In ein **gut bemehltes Gärkörbchen** legen, mit dem Schluss (der Nahtstelle) nach oben.
+
+![Teig im Gärkörbchen](Bilder/Weizen/10_Gärkörbchen.jpg)
+*Der geformte Teig im Gärkörbchen.*
+
 3. Abdecken (Tüte, Duschhaube oder Tuch), damit der Teig im Kühlschrank nicht austrocknet, und **über Nacht in den Kühlschrank** stellen.
 
 **Kein Gärkörbchen?** Das geht auch mit:
