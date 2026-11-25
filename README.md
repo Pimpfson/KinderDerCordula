@@ -37,7 +37,7 @@ Der Sauerteig, den du geschenkt bekommen hast, ist Überschuss aus meinem Glas. 
 
 **Fürs Backen** nimmst du das ASG immer erst nach der Reife (ca. 6 h, verdoppelt) oder frisch aus dem Kühlschrank.
 
-Das Auffrischen ist im Prinzip dasselbe wie beim [Sauerteig im Roggenbrot](#schritt-1-der-sauerteig).
+Das Verhältnis ist dasselbe wie beim [Sauerteig im Roggenbrot](#schritt-1-der-sauerteig) (1 Teil Anstellgut : 5 Teile Mehl : 5 Teile Wasser), nur die Mengen sind kleiner.
 
 ---
 
@@ -50,7 +50,7 @@ Das Auffrischen ist im Prinzip dasselbe wie beim [Sauerteig im Roggenbrot](#schr
 - **Hände immer anfeuchten oder bemehlen**, wenn der Teig klebrig ist.
 - **Roggen klebt immer.** Er bildet keine Struktur wie Weizen und muss deshalb nur vermischt werden, nicht geknetet.
 - **Temperatur:** Alle Zeitangaben gelten bei ca. **22 °C** Raumtemperatur. Ist es wärmer, geht es schneller, ist es kälter, dauert es länger.
-- **Übergare ist besser als Untergare.** Im Zweifel lieber länger gehen lassen.
+- **Übergare ist besser als Untergare.** Im Zweifel lieber länger gehen lassen, aber nicht übertreiben (siehe Hinweis beim Weizenbrot).
 - **Geduld:** In den ersten Stunden passiert im Teig sichtbar wenig. Die Volumenzunahme kommt erst gegen Ende. Nicht nervös werden und nicht zu früh aufgeben.
 
 ---
@@ -195,13 +195,15 @@ Alles vermischen und **abgedeckt** (Deckel nur auflegen) über Nacht (ca. **12 S
 
 1. Alles mischen und **10-15 Minuten kneten**.
 2. **2 Stunden abgedeckt ruhen** lassen. In dieser Zeit alle **30 Minuten dehnen und falten**: Den Teig an einer Seite hochziehen, dehnen und über sich falten, dann die Schüssel eine Vierteldrehung weiterdrehen und wiederholen (rundherum). Dazu den Teig nur kurz aufdecken und danach wieder abdecken.
-3. Danach den Teig **abgedeckt** weiter gehen lassen (Stockgare): bei ca. 22 °C **mindestens 4 Stunden** (TODO: genaue Zeit nach Backversuch eintragen), bis der Teig ca. **60 % an Volumen** gewonnen hat. Auch hier gilt: Die Volumenzunahme kommt erst gegen Ende.
+3. Danach den Teig **abgedeckt** weiter gehen lassen (Stockgare): bei ca. 22 °C **ca. 3 Stunden**, bis der Teig ca. **60 % an Volumen** gewonnen hat. Insgesamt sind das **ca. 5 Stunden ab dem Ende des Knetens** (inklusive der 2 Stunden Ruhe mit Dehnen und Falten). Auch hier gilt: Die Volumenzunahme kommt erst gegen Ende.
 
 > **Profi-Tipp (Aliquot-Methode):** Gib ein Stück Teig (ca. 20 g) in ein kleines Glas (Deckel nur locker auflegen) und markiere die Höhe. Wenn der Teig im Glas um 60 % gewachsen ist, ist auch der große Teig so weit. Das ist verlässlicher als jede Uhrzeit.
 
+> **Mein Backversuch:** Ich habe die Stockgare insgesamt **6 Stunden** ab dem Ende des Knetens gehen lassen (es ging bei mir zeitlich nicht anders). Das war zu viel, **5 Stunden hätten gereicht**. Bei Weizen gilt „im Zweifel länger“ also nur eingeschränkt. Schau lieber auf das Volumen als auf die Uhr.
+
 ## Schritt 3: Formen und kalt gehen lassen
 
-1. Teig vorsichtig auf die Arbeitsfläche geben und zu einer Kugel oder einem Oval formen.
+1. Teig vorsichtig auf die Arbeitsfläche geben und zu einer Kugel oder einem Oval formen. Bei der Aliquot Methode kann man den entfernten Teig hier auf die Unterseite des Teiges machen.
 2. In ein **gut bemehltes Gärkörbchen** legen, mit dem Schluss (der Nahtstelle) nach oben.
 3. Abdecken (Tüte, Duschhaube oder Tuch), damit der Teig im Kühlschrank nicht austrocknet, und **über Nacht in den Kühlschrank** stellen.
 
