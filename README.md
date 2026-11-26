@@ -166,9 +166,11 @@ Roggenbrot muss **mindestens 12 Stunden** auskühlen, bevor du es anschneidest.
 
 ---
 
-# Rezept 2: Weizenbrot
+# Rezept 2: Weizenbrot („Home Office Brot“)
 
 **Schwierigkeit:** anspruchsvoller als Rezept 1. Du musst **kneten, dehnen und falten, formen** und brauchst am besten ein **Gärkörbchen**. Probier zuerst das Roggenbrot.
+
+**Voraussetzungen:** ein Gärkörbchen (oder eine Alternative, siehe Schritt 3) und **1 Tag Homeoffice 🙂**
 
 ## Schritt 1: Der Vorteig (über Nacht)
 
@@ -183,7 +185,7 @@ Roggenbrot muss **mindestens 12 Stunden** auskühlen, bevor du es anschneidest.
 Alles vermischen und **abgedeckt** (Deckel nur auflegen) über Nacht (ca. **12 Stunden**) stehen lassen.
 
 ![Weizen-Vorteig](Bilder/Weizen/01_Sauerteig.jpg)
-*Der Vorteig nach der Nacht. Im Bild hab ich schon Wasser draufgeschüttet, einfach ignorieren :)*
+*Der Vorteig nach der Nacht.*
 
 ## Schritt 2: Der Hauptteig
 
@@ -196,7 +198,7 @@ Alles vermischen und **abgedeckt** (Deckel nur auflegen) über Nacht (ca. **12 S
 
 **Zubereitung**
 
-1. Alles mischen und **10-15 Minuten kneten**. 
+1. Alles mischen und **10-15 Minuten kneten**. Wenn du nicht ausgiebig kneten möchtest, kannst du den Teig auch erstmal nur zusammenmischen und **10-15 Minuten stehen lassen**.
 
 ![Hauptteig nach dem Kneten](Bilder/Weizen/02_Hauptteig_Verknetet.jpg)
 *Der Hauptteig ist fertig verknetet.*
@@ -207,10 +209,12 @@ Alles vermischen und **abgedeckt** (Deckel nur auflegen) über Nacht (ca. **12 S
 2. **2 Stunden abgedeckt ruhen** lassen. In dieser Zeit alle **30 Minuten dehnen und falten**: Den Teig an einer Seite hochziehen, dehnen und über sich falten, dann die Schüssel eine Vierteldrehung weiterdrehen und wiederholen (rundherum). Dazu den Teig nur kurz aufdecken und danach wieder abdecken.
 
 ![Dehnen und Falten 1](Bilder/Weizen/04_DehnenFalten1.jpg)
-*Dehnen und Falten, erste Runde nach 30 Minuten.*
+*Dehnen und Falten, erste Runde.*
 
 ![Dehnen und Falten 2](Bilder/Weizen/05_DehnenFalten2.jpg)
 *Dehnen und Falten, spätere Runde.*
+
+▶️ **Video:** [Beispiel für Dehnen und Falten](https://www.youtube.com/shorts/LgPSulSaJ38) (im Video ist es Pizzateig, das Prinzip ist dasselbe)
 
 3. Danach den Teig **abgedeckt** weiter gehen lassen (Stockgare): bei ca. 22 °C **ca. 3 Stunden**, bis der Teig ca. **60 % an Volumen** gewonnen hat. Insgesamt sind das **ca. 5 Stunden ab dem Ende des Knetens** (inklusive der 2 Stunden Ruhe mit Dehnen und Falten). Auch hier gilt: Die Volumenzunahme kommt erst gegen Ende.
 
@@ -236,12 +240,18 @@ Alles vermischen und **abgedeckt** (Deckel nur auflegen) über Nacht (ca. **12 S
 ## Schritt 3: Formen und kalt gehen lassen
 
 1. Teig vorsichtig auf die Arbeitsfläche geben und zu einer Kugel oder einem Oval formen. Bei der Aliquot Methode kann man den entfernten Teig hier auf die Unterseite des Teiges machen.
-2. In ein **gut bemehltes Gärkörbchen** legen, mit dem Schluss (der Nahtstelle) nach oben.
+
+▶️ **Video:** [So wird der Teig geformt](https://www.youtube.com/watch?v=h7eqwYLv2tI) (die einfache Technik im Video reicht)
+
+2. In ein **gut bemehltes Gärkörbchen** legen, mit dem Schluss (der Nahtstelle) nach oben. Zum Bemehlen eignet sich **Reismehl** am besten, danach **Roggenmehl** (auch Vollkorn) und als letzte Lösung **Weizenmehl**.
 
 ![Teig im Gärkörbchen](Bilder/Weizen/10_Gärkörbchen.jpg)
 *Der geformte Teig im Gärkörbchen.*
 
 3. Abdecken (Tüte, Duschhaube oder Tuch), damit der Teig im Kühlschrank nicht austrocknet, und **über Nacht in den Kühlschrank** stellen.
+
+![Gärkörbchen mit Haube](Bilder/Weizen/11_Haube.jpg)
+*Das Gärkörbchen ist mit einer Haube abgedeckt.*
 
 **Kein Gärkörbchen?** Das geht auch mit:
 
@@ -253,13 +263,33 @@ Alles vermischen und **abgedeckt** (Deckel nur auflegen) über Nacht (ca. **12 S
 
 Der Teig kann direkt aus dem Kühlschrank gebacken werden.
 
+![Teig am nächsten Tag](Bilder/Weizen/Backen/02_NachStückgare_Kühlschrank.jpg)
+*Der Teig am nächsten Tag direkt aus dem Kühlschrank.*
+
 **Ohne Topf (Standard):**
 
 1. Backblech (oder Backstein) und eine **leere, feuerfeste Schale** (am besten aus Metall) auf dem Ofenboden im Ofen mit vorheizen. Ofen auf **230 °C** Ober-/Unterhitze.
-2. Teig aus dem Gärkörbchen auf Backpapier stürzen und mit einem scharfen Messer oder einer Rasierklinge ca. 0,5 cm tief einschneiden.
+2. Teig aus dem Gärkörbchen auf Backpapier stürzen und mit einem sehr scharfen Messer oder einer Rasierklinge ca. 0,5 cm tief einschneiden. Der Teig kann alternativ auch nach **6 Minuten Backzeit** eingeschnitten werden.
+
+![Teig mit Einschnitt](Bilder/Weizen/Backen/03_MitEinschnitt.jpg)
+*Der Teig mit Einschnitt.*
+
 3. Mit dem Papier auf das heiße Blech schieben, **sofort heißes Wasser in die Schale gießen** (Vorsicht, es dampft stark), Tür schließen und **20 Minuten bei 230 °C mit Dampf** backen.
+
+![Teig direkt im Ofen](Bilder/Weizen/Backen/04_DirekOfen.jpg)
+*Der Teig direkt nach dem Einschieben in den Ofen.*
+
+![Teig nach 10 Minuten](Bilder/Weizen/Backen/05_10Min_Ofen.jpg)
+*Der Teig nach 10 Minuten im Ofen.*
+
 4. Dampf ablassen (Ofentür kurz öffnen) und auf **210 °C** reduzieren. Die Schale kann im Ofen bleiben. Weitere **25-30 Minuten** backen, bis die Kruste schön braun ist.
+
+![Gebackenes Weizenbrot](Bilder/Weizen/Backen/06_Gebacken.jpg)
+*Das fertig gebackene Weizenbrot.*
+
 5. Auf einem Gitter mindestens **1 Stunde** auskühlen lassen.
+
+<!-- TODO: Bild vom Anschnitt einfügen: ![Weizenbrot angeschnitten](Bilder/Weizen/07_Anschnitt.jpg) -->
 
 **Mit Topf (optional, bessere Kruste):** Wer einen Gusseisentopf oder einen anderen ofenfesten Topf mit Deckel hat, kann das Brot darin backen:
 
