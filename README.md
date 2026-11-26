@@ -243,7 +243,7 @@ Alles vermischen und **abgedeckt** (Deckel nur auflegen) über Nacht (ca. **12 S
 
 ▶️ **Video:** [So wird der Teig geformt](https://www.youtube.com/watch?v=h7eqwYLv2tI) (die einfache Technik im Video reicht)
 
-2. In ein **gut bemehltes Gärkörbchen** legen, mit dem Schluss (der Nahtstelle) nach oben. Zum Bemehlen eignet sich **Reismehl** am besten, danach **Roggenmehl** (auch Vollkorn) und als letzte Lösung **Weizenmehl**.
+2. In ein **gut bemehltes Gärkörbchen** legen, mit dem Schluss (der Nahtstelle) nach oben. Zum Bemehlen eignet sich **Reismehl** am besten, danach **Roggenmehl** (auch Vollkorn) und als letzte Lösung **Weizenmehl**. Wenn du später **ohne Backpapier** backst, bemehle auch die **Unterseite** des Teiges (die Schlussseite, die im Körbchen oben liegt) gut, sonst klebt das Brot beim Backen fest. Mit Backpapier ist das nicht nötig, das ist für Anfänger einfacher.
 
 ![Teig im Gärkörbchen](Bilder/Weizen/10_Gärkörbchen.jpg)
 *Der geformte Teig im Gärkörbchen.*
@@ -268,13 +268,17 @@ Der Teig kann direkt aus dem Kühlschrank gebacken werden.
 
 **Ohne Topf (Standard):**
 
-1. Backblech (oder Backstein) und eine **leere, feuerfeste Schale** (am besten aus Metall) auf dem Ofenboden im Ofen mit vorheizen. Ofen auf **230 °C** Ober-/Unterhitze.
+Backen mit einem **Pizzastein** gelingt am besten, ein **umgedrehtes Backblech** geht aber auch. Der Pizzastein muss länger vorheizen als das Blech.
+
+**Backen auf Backpapier** ist einfacher und für Anfänger empfehlenswert: Du stürzt den Teig auf das Papier und schiebst ihn mit dem Papier in den Ofen. Ohne Backpapier muss die Unterseite des Teiges vorher gut bemehlt sein (siehe Schritt 3).
+
+1. **Pizzastein** oder **umgedrehtes Backblech** und eine **leere, feuerfeste Schale** (am besten aus Metall) auf dem Ofenboden im Ofen mit vorheizen. Ofen auf **230 °C** Ober-/Unterhitze. Der Pizzastein braucht dafür **mindestens 30-45 Minuten**, beim Backblech reichen **ca. 15-20 Minuten**.
 2. Teig aus dem Gärkörbchen auf Backpapier stürzen und mit einem sehr scharfen Messer oder einer Rasierklinge ca. 0,5 cm tief einschneiden. Der Teig kann alternativ auch nach **6 Minuten Backzeit** eingeschnitten werden.
 
 ![Teig mit Einschnitt](Bilder/Weizen/Backen/03_MitEinschnitt.jpg)
 *Der Teig mit Einschnitt.*
 
-3. Mit dem Papier auf das heiße Blech schieben, **sofort heißes Wasser in die Schale gießen** (Vorsicht, es dampft stark), Tür schließen und **20 Minuten bei 230 °C mit Dampf** backen.
+3. Mit dem Papier auf den heißen Pizzastein (oder das heiße Backblech) schieben, **sofort heißes Wasser in die Schale gießen** (Vorsicht, es dampft stark), Tür schließen und **20 Minuten bei 230 °C mit Dampf** backen.
 
 ![Teig direkt im Ofen](Bilder/Weizen/Backen/04_DirekOfen.jpg)
 *Der Teig direkt nach dem Einschieben in den Ofen.*
@@ -289,7 +293,7 @@ Der Teig kann direkt aus dem Kühlschrank gebacken werden.
 
 5. Auf einem Gitter mindestens **1 Stunde** auskühlen lassen.
 
-<!-- TODO: Bild vom Anschnitt einfügen: ![Weizenbrot angeschnitten](Bilder/Weizen/07_Anschnitt.jpg) -->
+![Weizenbrot angeschnitten](Bilder/Weizen/Backen/07_Anschnitt.jpg) 
 
 **Mit Topf (optional, bessere Kruste):** Wer einen Gusseisentopf oder einen anderen ofenfesten Topf mit Deckel hat, kann das Brot darin backen:
 
