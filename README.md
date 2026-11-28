@@ -1,6 +1,6 @@
 # 🍞 Kinder der Cordula
 
-*Dein Sauerteig-Starter und zwei Brotrezepte*
+*Dein Sauerteig-Starter, zwei Brotrezepte und ein Grundrezept zum Abwandeln*
 
 Herzlichen Glückwunsch, du hast ein Kind von Cordula adoptiert! In diesem Glas steckt lebendiger Sauerteig, das sogenannte **Anstellgut (ASG)**. Mit ein bisschen Pflege backst du damit richtig gutes Brot, und du kannst ihn jahrelang am Leben halten.
 
@@ -311,6 +311,51 @@ Backen mit einem **Pizzastein** gelingt am besten, ein **umgedrehtes Backblech**
 3. Deckel drauf, Ofen auf **230 °C** stellen und **20 Minuten** backen.
 4. Deckel abnehmen, bei **210 °C** weitere **20-25 Minuten** backen.
 5. Auf einem Gitter mindestens **1 Stunde** auskühlen lassen.
+
+---
+
+# Grundrezept: Dein eigenes Sauerteigbrot
+
+Wenn du das [Weizenbrot](#rezept-2-weizenbrot-home-office-brot) ein paar Mal gebacken hast, kannst du es nach diesem Baukasten abwandeln. Gerechnet ist hier mit **500 g Mehl**. Alle anderen Mengen ergeben sich daraus.
+
+## Das Prinzip
+
+- **Start mit 500 g Mehl** (Mehl aus Vorteig und Hauptteig zusammengerechnet).
+- Davon werden **10-20 % versäuert**, das sind **50-100 g Mehl**. Dieser Teil kommt als Vorteig über Nacht (ca. 12 Stunden) mit dem Anstellgut zusammen.
+- **Wasser:** ca. **67 % vom Gesamtmehl**, also ca. **335 g** (Wasser aus Vorteig und Hauptteig zusammen).
+- **Salz:** **2 %** vom Gesamtmehl, also **10 g**.
+- **Anstellgut:** **10 %** vom Vorteig-Mehl.
+- Der Vorteig hat gleich viel Wasser wie Mehl (1:1).
+
+## Die Mengen
+
+| | 10 % versäuert | 20 % versäuert (= Weizenbrot) |
+|---|---|---|
+| **Vorteig:** Anstellgut | 5 g | 10 g |
+| **Vorteig:** Wasser | 50 g | 100 g |
+| **Vorteig:** Mehl | 50 g | 100 g |
+| **Hauptteig:** Mehl | 450 g | 400 g |
+| **Hauptteig:** Wasser | 285 g | 235 g |
+| **Hauptteig:** Salz | 10 g | 10 g |
+| **Gesamt:** Mehl / Wasser | 500 g / 335 g | 500 g / 335 g |
+
+Bei einem Anteil dazwischen (z. B. 15 %) rechnest du entsprechend: 75 g Mehl und 75 g Wasser im Vorteig, dazu 7-8 g Anstellgut. Der Hauptteig bekommt die restlichen 425 g Mehl, 260 g Wasser und 10 g Salz.
+
+## Ablauf
+
+Der Ablauf ist derselbe wie beim [Weizenbrot](#rezept-2-weizenbrot-home-office-brot):
+
+1. **Vorteig** am Vorabend ansetzen und abgedeckt ca. 12 Stunden stehen lassen.
+2. **Hauptteig** mischen und kneten (oder mischen und ruhen lassen), dann mit **Dehnen und Falten** und der **Stockgare** weiterarbeiten. Die Zeit gibt hier das Volumen vor (ca. 60 % mehr), am besten mit der Aliquot-Methode.
+3. **Formen**, ins Gärkörbchen legen und **über Nacht in den Kühlschrank** stellen.
+4. Am nächsten Tag **backen** (230 °C mit Dampf, dann 210 °C).
+
+## Hinweise zum Abwandeln
+
+- **Weniger Vorteig (10 %)** bedeutet, dass im Hauptteig weniger Sauerteig steckt. Die Stockgare dauert dann in der Regel länger. Verlass dich auf das Aliquot-Glas und nicht auf die Uhr.
+- **Mehr Vorteig (20 %)** macht den Teig meist schneller und das Brot kräftiger im Geschmack.
+- **Anderes Mehl:** Verschiedene Mehle nehmen unterschiedlich viel Wasser auf (Vollkorn z. B. mehr). Halte anfangs **10 % des Wassers zurück** und gib es bei Bedarf nach (siehe Basics).
+- **Andere Mengen:** Rechne einfach mit den Prozenten. Für 1.000 g Mehl verdoppelst du alle Mengen aus der Tabelle.
 
 ---
 
