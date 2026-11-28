@@ -4,6 +4,15 @@
 
 Herzlichen Glückwunsch, du hast ein Kind von Cordula adoptiert! In diesem Glas steckt lebendiger Sauerteig, das sogenannte **Anstellgut (ASG)**. Mit ein bisschen Pflege backst du damit richtig gutes Brot, und du kannst ihn jahrelang am Leben halten.
 
+![Mama Cordula](Bilder/Cordula/Mama.jpg)
+*Mama Cordula*
+
+![Die vereinten Kinder](Bilder/Cordula/BrutVereint.jpg)
+*Die vereinten Kinder*
+
+![Die verteilten Kinder](Bilder/Cordula/BrutVerteilt.jpg)
+*Die verteilten Kinder*
+
 ---
 
 ## Los geht's
